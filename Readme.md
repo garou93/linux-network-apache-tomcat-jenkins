@@ -19,7 +19,8 @@
 * An EC2 Instance
 ----------------
 * Or, in local machine : http://localhost:8080/jenkins/
-* 
+(Tomcat server)
+
 ################ steps : method 1
 
 * Download Jenkins and Apache Tomcat Package.
@@ -30,7 +31,7 @@
 
 - working Setup of Jenkins and Tomcat
 - administration Privileges on Jenkins and Tomcat
-- 
+
 ### steps : method 2
 
 look at the steps required to configure the Jenkins and Tomcat and achieve Continuous Deployment and Continuous Integration. Jenkins Tomcat Deploy
