@@ -40,5 +40,5 @@ look at the steps required to configure the Jenkins and Tomcat and achieve Conti
 			*Git and Maven installed
 			*Install Deploy to Container Plugin
 
-
+Et, c'est tout !
 
